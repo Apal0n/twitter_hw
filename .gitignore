@@ -1,0 +1,7 @@
+.idea/
+venv/
+media/
+
+**/__pycashe__/**
+
+db.sqlite3
